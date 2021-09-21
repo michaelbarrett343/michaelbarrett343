@@ -2,6 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently working on something cool
 - 💞️ I’m looking to collaborate on something cool
+- 📫 How to reach me michaelbarrett343@googlemail.com
 
 <!---
 michaelbarrett343/michaelbarrett343 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
